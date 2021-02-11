@@ -1,6 +1,6 @@
 ## Hi there, I'm Roni 👋
 
-### I'm a Full Stack Web Developer 🧑‍💻
+### I'm a Full Stack Web Developer 👩‍💻
 
 - 🔭 I’m currently working on finding a job in as a Web Developer
 - 🌱 I’m currently learning how to work with Puppeteer
